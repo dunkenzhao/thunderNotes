@@ -17,6 +17,9 @@
   <li dir="ltr">
     <p dir="ltr">&lt;uses-permission android:name=&quot;android.permission.None&quot; &sol;&gt; didn't need any user permission to run the app.The user data is stored in the internal memory of the user andorid phone and only the user who owned the phone can access them.</p>
   </li>
+    <li dir="ltr">
+    <p dir="ltr">&lt;uses-permission android:name=&quotcom.google.android.gms.permission.AD_ID&quot; &sol;&gt; has to be included because we use Android API 34.</p>
+  </li>
 </ol>
 <p dir="ltr">&nbsp;</p>
 <h3 id="h.p_ZZPzj8aFiF7D_l" dir="ltr" tabindex="-1">
