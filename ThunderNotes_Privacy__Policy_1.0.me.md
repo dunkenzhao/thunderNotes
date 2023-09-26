@@ -15,7 +15,7 @@
 <p dir="ltr">Permission We Use:</strong></p>
 <ol>
   <li dir="ltr">
-    <p dir="ltr">&lt;uses-permission android:name=&quot;android.permission.None&quot; &sol;&gt; didn't need any user permission to run the app.</p>
+    <p dir="ltr">&lt;uses-permission android:name=&quot;android.permission.None&quot; &sol;&gt; didn't need any user permission to run the app.The user data is store in internal memory of user andorid phone and only user can access them.</p>
   </li>
 </ol>
 <p dir="ltr">&nbsp;</p>
@@ -28,7 +28,7 @@
     </div>
     Processing Personal Information</div>
 </h3>
-<p dir="ltr">ThunderNotes will only collect such Personal Information that is relevant for the purposes described in this Privacy Policy. Personal Information may be processed for the purposes of maintaining, customizing and developing the Applications, improve Users experience and marketing information to Users, conducting research, creating reports, offering competitions receive feedback from user. ThunderNotes commit to adhere to the provisions of the Finnish Personal Data Act and other applicable laws and regulations pertaining to processing of Personal Information, as well as to process Personal Information in compliance with good processing practices. All personnel processing Personal Information are obliged to keep such information strictly confidential.</p>
+<p dir="ltr">ThunderNotes will not collect such Personal Information that is relevant for the purposes described in this Privacy Policy. Personal Information may be processed for the purposes of maintaining, customizing and developing the Applications, improve Users experience and marketing information to Users, conducting research, creating reports, offering competitions receive feedback from user. ThunderNotes commit to adhere to the provisions of the Finnish Personal Data Act and other applicable laws and regulations pertaining to processing of Personal Information, as well as to process Personal Information in compliance with good processing practices. All personnel processing Personal Information are obliged to keep such information strictly confidential.</p>
 <div id="h.p_Wzdc2ffaiF7G"></div>
 <h3 id="h.p_Wzdc2ffaiF7G_l" dir="ltr" tabindex="-1">
   <div jscontroller="Ae65rd" jsaction="touchstart:UrsOsc; click:KjsqPd; focusout:QZoaZ; mouseover:y0pDld; mouseout:dq0hvd;fv1Rjc:jbFSOd;CrfLRd:SzACGe;">
