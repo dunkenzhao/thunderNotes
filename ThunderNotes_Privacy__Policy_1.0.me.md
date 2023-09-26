@@ -15,7 +15,7 @@
 <p dir="ltr">Permission We Use:</strong></p>
 <ol>
   <li dir="ltr">
-    <p dir="ltr">&lt;uses-permission android:name=&quot;android.permission.None&quot; &sol;&gt; didn't need any user permission to run the app.The user data is store in internal memory of user andorid phone and only user can access them.</p>
+    <p dir="ltr">&lt;uses-permission android:name=&quot;android.permission.None&quot; &sol;&gt; didn't need any user permission to run the app.The user data is stored in the internal memory of the user andorid phone and only the user who ownd the phone can access them.</p>
   </li>
 </ol>
 <p dir="ltr">&nbsp;</p>
