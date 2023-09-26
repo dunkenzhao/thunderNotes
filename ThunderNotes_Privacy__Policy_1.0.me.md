@@ -10,7 +10,7 @@
 <p dir="ltr">Last updated: September 09th, 2023</p>
 <p dir="ltr"><br />
 </p>
-<p dir="ltr">This privacy policy (&ldquo;Policy&rdquo;) describes how ThunderNotes VN (&ldquo;ThunderNotes VN&rdquo;, &ldquo;we&rdquo;, &ldquo;us&rdquo; or &ldquo;our&rdquo;) collects, protects and uses the personally identifiable information (&ldquo;Personal Information&rdquo;) you (&ldquo;User&rdquo;, &ldquo;you&rdquo; or &ldquo;your&rdquo;) may provide in the </p>
+<p dir="ltr">This privacy policy (&ldquo;Policy&rdquo;) describes how ThunderNotes (&ldquo;ThunderNotes VN&rdquo;, &ldquo;we&rdquo;, &ldquo;us&rdquo; or &ldquo;our&rdquo;) collects, protects and uses the personally identifiable information (&ldquo;Personal Information&rdquo;) you (&ldquo;User&rdquo;, &ldquo;you&rdquo; or &ldquo;your&rdquo;) may provide in the </p>
 <p dir="ltr">Notepad - Notepad reminder app &amp; Notebook, notes application and any of its products (collectively, &ldquo;Mobile Application&rdquo;). It also describes the choices available to you regarding our use of your Personal Information and how you can access and update this information. This Policy does not apply to the practices of companies that we do not own or control, or to individuals that we do not employ or manage.This Policy covers our collection, use and disclosure of your information through the Applications. It does not cover any collection, use or disclosure by third parties through any applications, websites, products that we do not control or own, or any third-party features made available via the Application.</p>
 <p dir="ltr">Permission We Use:</strong></p>
 <ol>
