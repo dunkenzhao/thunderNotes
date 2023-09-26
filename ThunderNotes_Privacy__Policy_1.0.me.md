@@ -15,7 +15,7 @@
 <p dir="ltr">Permission We Use:</strong></p>
 <ol>
   <li dir="ltr">
-    <p dir="ltr"><uses-permission android:name=&quot;android.permission.None&quot; \> to not need any user permission to run the app.</p>
+    <p dir="ltr">&lt;uses-permission android:name=&quot;android.permission.None&quot; &sol;&gt; to not need any user permission to run the app.</p>
   </li>
 </ol>
 <p dir="ltr">&nbsp;</p>
