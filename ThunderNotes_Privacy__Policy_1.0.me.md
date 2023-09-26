@@ -39,7 +39,7 @@
     </div>
     Protection of Information</div>
 </h3>
-<p dir="ltr">The registers will be maintained in external service providers&rsquo; servers with appropriate safeguards, such as password protection, granting the access to the stored information only to persons working at ThunderNotes or ThunderNotes partners who are expressly authorized by ThunderNotes. The register is protected by appropriate industry standard, technical and organisatory safety measures. Although We make good faith efforts to store the information collected on the services in a secure operating environment that is not available to the public, We cannot guarantee the absolute security of that information during its transmission or its storage on our systems. ThunderNotes will post a notice on our Fanpage in case material security breach that endangers your privacy or Personal Information. ECO STUDIO may also temporarily shut down an application to protect Personal Information.</p>
+
 <p dir="ltr">Changes to the Privacy Policy</p>
 <p dir="ltr">ThunderNotes  may change this Privacy Policy from time to time. All changes here to will be made available on this fanpage, which is why ThunderNotes encourages Users to frequently check this page for any changes to this Privacy Policy. Changes hereto will not prejudice Users&rsquo; rights without their consent.</p>
 <div id="h.p_j2X11_20iF7K"></div>
